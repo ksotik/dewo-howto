@@ -1,0 +1,8 @@
+desktop.WhatsApp
+com.twistapp.mac-sparkle.Twist
+com.viber.osx
+com.skype.skype
+Mattermost.Desktop
+com.tinyspeck.slackmacgap
+org.whispersystems.signal-desktop
+ru.keepcoder.Telegram
